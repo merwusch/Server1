@@ -1,0 +1,8 @@
+C:\Users\merve\source\repos\Server1\Server1\bin\Debug\Server1.exe.config
+C:\Users\merve\source\repos\Server1\Server1\bin\Debug\Server1.exe
+C:\Users\merve\source\repos\Server1\Server1\bin\Debug\Server1.pdb
+C:\Users\merve\source\repos\Server1\Server1\obj\Debug\Server1.csproj.AssemblyReference.cache
+C:\Users\merve\source\repos\Server1\Server1\obj\Debug\Server1.csproj.SuggestedBindingRedirects.cache
+C:\Users\merve\source\repos\Server1\Server1\obj\Debug\Server1.csproj.CoreCompileInputs.cache
+C:\Users\merve\source\repos\Server1\Server1\obj\Debug\Server1.exe
+C:\Users\merve\source\repos\Server1\Server1\obj\Debug\Server1.pdb
